@@ -9,7 +9,7 @@ This artifact is for the paper: "Characterizing and identifying misexposed activ
 Mist is designed for identifying the misexposed activities in Android apps.
 
 ## Publication ##
-The paper PDF can be found at https://hanada31.github.io/pdf/icse20_fax.pdf
+The paper PDF can be found at https://hanada31.github.io/pdf/ase18_misexpose.pdf
 ```
 @inproceedings{Mist2018,
   author    = {Jiwei Yan and
